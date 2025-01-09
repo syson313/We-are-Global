@@ -1,5 +1,5 @@
 # We-are-Global
-Research Topic:Predicting Heart Attack Risk Using BMI
+Research Topic: Predicting Heart Attack Risk Using BMI
 
 Introduction and Purpose of the Study
 
